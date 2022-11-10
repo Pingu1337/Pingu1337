@@ -8,12 +8,15 @@ A little bit about me:
  - i enjoy problem solving
  - programming is my profession and my hobby
  
- 
 I run the website **[berrykitten.com](https://www.berrykitten.com/)** (**🚧**) where i post Guides, Tutorials, Hacks and more!\
 \
 [View my CV online](https://www.cv.berrykitten.com/)
 
-📫 How to reach me: <herman.brunbergg@gmail.com> or [message me on Discord](https://discordapp.com/users/225932009044836352)
+---
+
+ **🔭 I’m currently working on [QRx1](https://github.com/Pingu1337/QRx1)** 
+
+ **📫 How to reach me: <herman.brunbergg@gmail.com> or [message me on Discord](https://discordapp.com/users/225932009044836352)**
 
 <!--
 **Pingu1337/Pingu1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
