@@ -14,7 +14,7 @@ I run the website **[berrykitten.com](https://www.berrykitten.com/)** (**🚧**)
 
 ---
 
- **🔭 I’m currently working on [wow_auto_backup](https://github.com/Pingu1337/wow_auto_backup)** 
+ **⚡[Clean Architecture .NET templates](https://www.nuget.org/packages/H3rm.CA.Templates)** 
 
  **📫 How to reach me: <herman.brunbergg@gmail.com> or [message me on Discord](https://discordapp.com/users/225932009044836352)**
 
