@@ -4,12 +4,20 @@ I'm Pingu1337 also known as h3rm but my real name is Herman.
 
 A little bit about me:
  - trained .NET fullstack developer
- - self thought in Python, NodeJS and LUA
+ - trainded in javascript, react, html and css
+ - self thought in Python, NodeJS, Rust and LUA
  - i enjoy problem solving
  - programming is my profession and my hobby
- 
-I run the website **[berrykitten.com](https://www.berrykitten.com/)** (**🚧**) where i post Guides, Tutorials, Hacks and more!\
-\
+
+
+
+### Some of the stuff i have developed over the years
+ - [berrykitten.com](https://www.berrykitten.com/)
+ - [null.care](https://www.null.care/)
+ - [todo.null.care](https://todo.null.care/)
+ - [dev.null.care](https://dev.null.care/)
+
+
 [View my CV online](https://www.cv.berrykitten.com/)
 
 ---
